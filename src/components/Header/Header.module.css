@@ -1,0 +1,22 @@
+header {
+    background-color: rgb(208, 210, 205);
+    text-align: center;
+}
+
+nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+}
+
+.logo {
+    width: 50px;
+    height: auto;
+}
+
+.navLinks {
+    display: flex;
+    gap: 1rem;
+}
